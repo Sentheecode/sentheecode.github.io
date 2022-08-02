@@ -2,6 +2,7 @@
 .box5 {
     margin-top: 20px;
     margin-bottom: 20px;
+    background-color: rgb(1,32,75);
 }
 
 .box6{
@@ -18,5 +19,5 @@
 }
 
 body {
-    background-color: #01204b;
+    background-color: rgb(1,32,75);
 }
