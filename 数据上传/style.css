@@ -2,12 +2,12 @@ body {
     background-color: rgb(1,32,75)
 }
 
-.box1 {
+.box5 {
     margin-top: 20px;
     margin-bottom: 20px;
 }
 
-.box2{
+.box6{
     background-color: white;
     margin-bottom: 20px;
     border-bottom: 20px;
@@ -16,6 +16,6 @@ body {
     padding-bottom: 10px;
     padding-top: 5px;
 }
-.box3{
+.box7{
     background-color: white;
 }
