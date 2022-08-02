@@ -1,6 +1,3 @@
-.body {
-    background-color: rgb(1,32,75)
-}
 
 .box5 {
     margin-top: 20px;
@@ -18,4 +15,8 @@
 }
 .box7{
     background-color: white;
+}
+
+body {
+    background-color: #01204b
 }
