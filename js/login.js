@@ -25,10 +25,10 @@ $(document).ready(function(){
 			}
 			/*var user = $("input[type='radio']:checked").val();
 			var type = 0;
-			if(user == "外援人员"){
+			if(user == "涂装人员"){
 				type = 0;
 			}
-			else if(user == "涂装人员"){
+			else if(user == "外援人员"){
 				type = 1;
 			}
 			else if(user == "管理员"){
